@@ -1,8 +1,7 @@
 package Pila;
-
 import javax.swing.*;
-
 public class Pila {
+
     private Nodo ultimoValorIngresado;
     int tamano = 0;
     String lista = "";
